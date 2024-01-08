@@ -1,8 +1,7 @@
-# CompAppV2 
 New Version of ProTubeVR's Companion Application <br/> 
 
 ## General Preview
-![general_preview](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/686d43fe-c869-47b1-a2cf-ce4fc624580a)
+![general_preview](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/ff16a059-7bb7-4a04-9e45-868ffd1f1df3)
 
 ## Index
 
@@ -14,8 +13,8 @@ New Version of ProTubeVR's Companion Application <br/>
 ***
 # Native Compatibility Games
 
-These games input can be customized through [Native Customization](##native-customization) <br/>
-> If your game does not appear on this list, use [SteamVR Compatibility](##steamvr-compatibility)
+These games input can be customized through [Native Customization](#native-customization) <br/>
+> If your game does not appear on this list, use [SteamVR Compatibility](#steamvr-compatibility)
 
 - **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
 - **Cactus cowboy 3 - Fully Loaded** = `RifleButt - RifleBolt`
@@ -34,7 +33,7 @@ These games input can be customized through [Native Customization](##native-cust
 - **Gambit !** = `All` ( Pistol only )
 
 Make sure your Haptic modules are set in the right channels when enabling **Native Customization** <br/>
-Refer to [Checking channels](##home-page-companion-pro) <br/>
+Refer to [Checking channels](#home-page-companion-pro) <br/>
 > If a game on this list doesn't work, make sure to enable Forcetube in your in-game settings
 
 
@@ -43,14 +42,15 @@ Refer to [Checking channels](##home-page-companion-pro) <br/>
 
 ## Top Bar Widgets
 
-  ![image![[navbar.PNG]]
+![navbar](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/783957a7-6005-4b76-a955-d97d906cfe65)
+
 
 ## Auto research
   Whether or not you want to add paired devices
 > Can be useful if you are using multiple modules
 
 ## Preset Manager
-![presets]![[preset_manager.PNG]]
+![preset_manager](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/2ac14047-c692-40ca-9bfd-efd6209da796)
 
  - **Delete :** <br/>
      Delete current selected preset<br/>
@@ -76,29 +76,29 @@ In the Companion Application, you have a few tabs available by default :
 <table>
   <tr>
     <td style="width: 50%;">
+      
+  Basic Features
+  - [Connected Devices](#home-page)
+  - [SteamVR](#steamvr-compatibility)
+  - [Haptic Demo](#demonstration)
+  - [Native and Mods](#native-customization)
 
-Basic Features
-- [Connected Devices](##home-page)
-- [SteamVR](##steamvr-compatibility)
-- [Haptic Demo](##demonstration)
-- [Native and Mods](##native-customization)
+  <td style="width: 50%;">
+  
+![main_options](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/e66ea892-74bb-4af9-92bd-cd93ac669add)
 
   <td style="width: 50%;">
 
-![Image]![[main_options.PNG]]
-    <td style="width: 50%;">
-
-Advanced Features
-- [Connected Devices](##home-page-companion-pro)
-- [SteamVR](##steamvr-compatibility-companion-pro)
-- [Haptic Demo](##demonstration-companion-pro)
-- [Native and Mods](##native-customization-companion-pro)
-- [Valve Index](##knuckles-fix)
+  Advanced Features
+  - [Connected Devices](#home-page-companion-pro)
+  - [SteamVR](#steamvr-compatibility-companion-pro)
+  - [Haptic Demo](#demonstration-companion-pro)
+  - [Native and Mods](#native-customization-companion-pro)
+  - [Valve Index](#knuckles-fix)
 
    <td style="width: 50%;">
-   
-![image]![[main_options_advanced.PNG]]
-
+     
+   ![main_options_advanced](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/13427349-00a1-4ada-a7a6-f84d18fd87f7)
 
   </tr>
 </table>
@@ -108,16 +108,15 @@ Advanced Features
   
 ## Home Page
 This is the page you land on when you start the app. By default, you will see each connected device here.
-  
-![image][[home.PNG]]
+
+![home](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d695324b-e130-49b1-8453-ee16b4a1853f)
+
 ## Home Page (Companion Pro)
 In advanced mode, you now have a `Channels` button appearing under each device. <br/>
 Clicking on this button will pop a menu where you can manually **assign channels** to your device <br/> 
 <div>
-  <img src="" width="250"/>
-  ![Image]![[forcetube_detail.PNG]]
-  <img src="" width="700"/>
-   ![Image]![[channel_manager.PNG]]
+  <img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/1f8e81de-8b7a-45e3-80a7-81d03dfeb1f6" width="250"/>
+  <img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/7222e17b-c740-41d2-9dd6-3b1a426ffa1f" width="700"/>
 </div>
 <br/>
 
@@ -133,9 +132,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
   > Allows you to customize SteamVR inputs
 
   <br/>
-
-  <p align="center"><img src="" width="800"/></p>
-  
+    <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/969afda0-9e62-4a32-9a49-c321b15ad63e" width="800"/></p>
   <br/>
   
   - **Listen Events :** <br/>
@@ -155,7 +152,9 @@ Clicking on this button will pop a menu where you can manually **assign channels
 
 ## SteamVR Compatibility (Companion Pro)
  <br/>
- <p align="center"><img src="https://github.com/ProTubeVRDev/CompAppV2/assets/62568994/21304fc6-b682-4864-a89e-29093e5688b4"/></p>
+
+ <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/77aef5a9-6f9a-4fd0-bb3c-0cbfdcf2b8cf"/></p>
+ <br/>
 
  - **Identifier :** <br/>
    Sends kick command with specified parameters below to the selected channel except 'All' <br/>
@@ -173,13 +172,14 @@ Clicking on this button will pop a menu where you can manually **assign channels
 ## Demonstration 
 <br/>
 
- <p align="center"><img src="https://github.com/ProTubeVRDev/CompAppV2/assets/62568994/c7724d0f-891f-4e75-b00c-1ee862829a5b"/></p>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/0b3ffdae-7d16-4052-ab0b-98ba0d391268"/></p>
  
 > Mainly used to simulate different types of weapon your module can imitate
 
 ## Demonstration (Companion Pro)
 <br/>
- <p align="center"><img src="https://github.com/ProTubeVRDev/CompAppV2/assets/62568994/ccbfd2fb-923c-4b95-9fd6-37143fb602ab"/></p>
+ <p align="center"><img src=https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/40d08bc6-a9dc-4079-90ab-1f7c67cebed7"/></p><br/>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/6b459cdf-264f-42cd-a3ef-58cc64b3577b"/></p><br/>
 
  - **Custom Single Shot :** <br/>
    Shoots once using specified parameters in below sliders<br/>
