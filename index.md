@@ -72,36 +72,34 @@ Refer to [Checking channels](#home-page-companion-pro) <br/>
 
 ## Side Panel
 In the Companion Application, you have a few tabs available by default :
+<br/>
 
-<table>
-  <tr>
-    <td style="width: 50%;">
-        
-  Basic Features
-  - [Connected Devices](#home-page)
-  - [SteamVR](#steamvr-compatibility)
-  - [Haptic Demo](#demonstration)
-  - [Native and Mods](#native-customization)
+   ![main_options](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/e66ea892-74bb-4af9-92bd-cd93ac669add)
 
-  <td style="width: 50%;">
-    
-  ![main_options](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/e66ea892-74bb-4af9-92bd-cd93ac669add)
-  
-  <td style="width: 50%;">
-
-  Advanced Features
-  - [Connected Devices](#home-page-companion-pro)
-  - [SteamVR](#steamvr-compatibility-companion-pro)
-  - [Haptic Demo](#demonstration-companion-pro)
-  - [Native and Mods](#native-customization-companion-pro)
-  - [Valve Index](#knuckles-fix)
-
-   <td style="width: 50%;">
-     
+ **Basic Features** <br/>
+	- [Connected Devices](#home-page)
+  	<br/>
+ 	- [SteamVR](#steamvr-compatibility)
+    <br/>
+ 	- [Haptic Demo](#demonstration)
+    <br/>
+ 	- [Native and Mods](#native-customization)
+       
+   ***
+       
    ![main_options_advanced](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/13427349-00a1-4ada-a7a6-f84d18fd87f7)
-  
-  </tr>
-</table>
+
+
+ **Advanced Features** <br/>
+   		- [Connected Devices](#home-page-companion-pro)
+        <br/>
+   		- [SteamVR](#steamvr-compatibility-companion-pro)
+        <br/>
+     	- [Haptic Demo](#demonstration-companion-pro)
+        <br/>
+     	- [Native and Mods](#native-customization-companion-pro)
+      	<br/>
+     	- [Valve Index](#knuckles-fix)  
 
 ***
 
