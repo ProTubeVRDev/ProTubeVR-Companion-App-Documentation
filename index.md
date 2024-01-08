@@ -251,5 +251,3 @@ This section prevents your in-game hands to fly away when you shoot in long burs
    How much time your hand gets frozen after a kick if it hits max acceleration<br/>
    
 ***
-
-***
