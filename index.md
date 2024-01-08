@@ -76,7 +76,7 @@ In the Companion Application, you have a few tabs available by default :
 <table>
   <tr>
     <td style="width: 50%;">
-      
+        
   Basic Features
   - [Connected Devices](#home-page)
   - [SteamVR](#steamvr-compatibility)
@@ -84,9 +84,9 @@ In the Companion Application, you have a few tabs available by default :
   - [Native and Mods](#native-customization)
 
   <td style="width: 50%;">
+    
+  ![main_options](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/e66ea892-74bb-4af9-92bd-cd93ac669add)
   
-![main_options](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/e66ea892-74bb-4af9-92bd-cd93ac669add)
-
   <td style="width: 50%;">
 
   Advanced Features
@@ -99,7 +99,7 @@ In the Companion Application, you have a few tabs available by default :
    <td style="width: 50%;">
      
    ![main_options_advanced](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/13427349-00a1-4ada-a7a6-f84d18fd87f7)
-
+  
   </tr>
 </table>
 
