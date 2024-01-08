@@ -1,18 +1,12 @@
 # CompAppV2 
 New Version of ProTubeVR's Companion Application <br/> 
 
-
-[![Windows](https://github.com/ProTubeVRDev/CompAppV2/actions/workflows/cmake.yml/badge.svg)](https://github.com/ProTubeVRDev/CompAppV2/actions/workflows/cmake.yml) <br/>
-
-
 ## General Preview
-
-![main_menu]![[general_preview.PNG]]
+![general_preview](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/686d43fe-c869-47b1-a2cf-ce4fc624580a)
 
 ## Index
 
   - [Native Compatibility games](#native-compatibility-games)
-  
   - [Manual](#manual)
     - [Top Bar Widgets](#top-bar-widgets)
     - [Side Panel](#side-panel)
@@ -20,8 +14,8 @@ New Version of ProTubeVR's Companion Application <br/>
 ***
 # Native Compatibility Games
 
-These games input can be customized through [Native Customization](#native-customization) <br/>
-> If your game does not appear on this list, use [SteamVR Compatibility](#steamvr-compatibility)
+These games input can be customized through [Native Customization](##native-customization) <br/>
+> If your game does not appear on this list, use [SteamVR Compatibility](##steamvr-compatibility)
 
 - **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
 - **Cactus cowboy 3 - Fully Loaded** = `RifleButt - RifleBolt`
@@ -40,7 +34,7 @@ These games input can be customized through [Native Customization](#native-custo
 - **Gambit !** = `All` ( Pistol only )
 
 Make sure your Haptic modules are set in the right channels when enabling **Native Customization** <br/>
-Refer to [Checking channels](#home-page-companion-pro) <br/>
+Refer to [Checking channels](##home-page-companion-pro) <br/>
 > If a game on this list doesn't work, make sure to enable Forcetube in your in-game settings
 
 
@@ -84,11 +78,10 @@ In the Companion Application, you have a few tabs available by default :
     <td style="width: 50%;">
 
 Basic Features
-- [Companion lite](#advanced-mode)
-- [Home Page](#home-page)
-- [SteamVR Compatibility](#steamvr-compatibility)
-- [Demonstration](#demonstration)
-- [Native Customization](#native-customization)
+- [Connected Devices](##home-page)
+- [SteamVR](##steamvr-compatibility)
+- [Haptic Demo](##demonstration)
+- [Native and Mods](##native-customization)
 
   <td style="width: 50%;">
 
@@ -96,12 +89,11 @@ Basic Features
     <td style="width: 50%;">
 
 Advanced Features
-- [Companion Pro](#advanced-mode)
-- [Home Page](#home-page-companion-pro)
-- [SteamVR Compatibility](#steamvr-compatibility-companion-pro)
-- [Demonstration](#demonstration-companion-pro)
-- [Native Customization](#native-customization-companion-pro)
-- [Knuckles Fix](#knuckles-fix)
+- [Connected Devices](##home-page-companion-pro)
+- [SteamVR](##steamvr-compatibility-companion-pro)
+- [Haptic Demo](##demonstration-companion-pro)
+- [Native and Mods](##native-customization-companion-pro)
+- [Valve Index](##knuckles-fix)
 
    <td style="width: 50%;">
    
