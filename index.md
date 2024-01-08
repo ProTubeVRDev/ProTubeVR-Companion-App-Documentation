@@ -103,6 +103,8 @@ In the Companion Application, you have a few tabs available by default :
   </tr>
 </table>
 
+***
+
 ## Advanced Mode
   Basically, switching between modes allows the user to **enable/disable advanced features**.
   
