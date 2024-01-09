@@ -132,7 +132,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
   > Allows you to customize SteamVR inputs
 
   <br/>
-    <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/969afda0-9e62-4a32-9a49-c321b15ad63e" width="800"/></p>
+    <img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/969afda0-9e62-4a32-9a49-c321b15ad63e" width="800"/>
   <br/>
   
   - **Listen Events :** <br/>
@@ -178,8 +178,10 @@ Clicking on this button will pop a menu where you can manually **assign channels
 
 ## Demonstration (Companion Pro)
 <br/>
- <p align="center"><img src=https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/40d08bc6-a9dc-4079-90ab-1f7c67cebed7"/></p><br/>
- <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/6b459cdf-264f-42cd-a3ef-58cc64b3577b"/></p><br/>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/40d08bc6-a9dc-4079-90ab-1f7c67cebed7"/></p>
+<br/>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/6b459cdf-264f-42cd-a3ef-58cc64b3577b"/></p>
+<br/>
 
  - **Custom Single Shot :** <br/>
    Shoots once using specified parameters in below sliders<br/>
@@ -207,7 +209,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
   > Non-exhaustive Native games list & instructions [here](#native-compatibility-games)
   <br/>
 
- <p align="center"><img src="https://github.com/ProTubeVRDev/CompAppV2/assets/62568994/d9fe89eb-9b4b-4fb6-979b-e1babacdeabc"/></p>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
 
  - **Kick Power :** <br/>
   Controls the kick power of your device<br/>
@@ -221,7 +223,9 @@ Clicking on this button will pop a menu where you can manually **assign channels
 
 
 ## Native Customization (Companion Pro)
-<p align="center"><img src="https://github.com/ProTubeVRDev/CompAppV2/assets/62568994/959e7bed-c45c-4289-9cc8-2bf44f427bd8"/></p>
+
+<p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d3d29e99-17f8-40aa-90eb-775af894412c"/></p>
+<p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
 
  - **Identifier :** <br/>
    Sends kick command with specified parameters below to the selected channel except 'All' <br/>
@@ -231,10 +235,12 @@ Clicking on this button will pop a menu where you can manually **assign channels
 
 **Install the drivers first**
 
+You can find the driver installer in your program installation folder, inside `Valve-Index-Knuckles-driver`
+
 This section prevents your in-game hands to fly away when you shoot in long bursts
 <br/><br/>
 
-<p align="center"><img src="https://github.com/ProTubeVRDev/CompAppV2/assets/62568994/a96b2c03-d991-4c52-af46-18a733e7b8b9"/></p>
+<p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/4cf4dd10-6200-4f86-aa4b-6efb2198b181"/></p>
 
  - **Accelero :** <br/>
   Limits max acceleration of your in-game hand<br/>
