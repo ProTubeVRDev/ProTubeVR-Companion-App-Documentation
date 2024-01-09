@@ -1,4 +1,4 @@
-New Version of ProTubeVR's Companion Application <br/> 
+<link rel="stylesheet" href="index.css" type="text" />
 
 ## General Preview
 ![general_preview](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/ff16a059-7bb7-4a04-9e45-868ffd1f1df3)
