@@ -7,6 +7,14 @@
 ## General Preview
 ![general_preview](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/ff16a059-7bb7-4a04-9e45-868ffd1f1df3)
 
+## Definitions :
+- **Module / Device** : Your electronic equipment you're connecting to the app
+- **Channel** : A reserved space where you can connect your modules and isolate specific received signals
+- **ms** : milliseconds
+- **Preset** : a configuration file that contains saved channels and device info
+
+  ***
+  
 ## Index
 
   - [Native Compatibility games](#native-compatibility-games)
@@ -43,15 +51,6 @@ Refer to [Checking channels](#advanced-home-page) (advanced home page )<br/>
 
 # Instruction Manual
 
-## Definitions :
-- **Module / Device** : Your electronic equipment you're connecting to the app
-- **Channel** : A reserved space where you can connect your modules and isolate specific received signals
-  > There is currently 6 different channels available
-- **ms** : milliseconds
-- **Preset** : a configuration file that contains saved channels and device info
-
-  ***
-
 ## Top Bar Widgets
 
 ![navbar](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/783957a7-6005-4b76-a955-d97d906cfe65)
@@ -70,7 +69,7 @@ Refer to [Checking channels](#advanced-home-page) (advanced home page )<br/>
  - **New :** <br/>
     Creates a new preset with the name in the black text box and saves current configs including :
       - Assigned device channels
-      - SteamVR settings
+      - VR settings
       - Native Compatibility Settings
       - Knuckles Fix values
     
@@ -148,16 +147,16 @@ Clicking on this button will pop a menu where you can manually **assign channels
   <br/>
   
   - **Listen Events :** <br/>
-    Whether you want your module to react when your left/right hand does something in-game <br/>
+    Whether you want your channel to react when your left/right hand does an action in-game <br/>
     
   - **Kick Power :** <br/>
-    Controls the kick power of your device<br/>
+    Controls the kick power of your devices<br/>
     
   - **Kick Threshold :** <br/>
     Adjust this variable to control how many events are being reacted to, depending of the events power steamvr emits <br/>
     
   - **Rumble Threshold :** <br/>
-    Same than Kick Threshold, but for the Rumble feature.
+    Same as Kick Threshold, but for the Rumble feature.
     > Useful if you need to react to rumble when i.e. picking up an object <br/>
     
 <br/>
@@ -168,11 +167,8 @@ Clicking on this button will pop a menu where you can manually **assign channels
  <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/77aef5a9-6f9a-4fd0-bb3c-0cbfdcf2b8cf"/></p>
  <br/>
 
- - **Identifier :** <br/>
-   Sends kick command with specified parameters below to the selected channel except 'All' <br/>
-   
  - **Interpret as kick / Interpret as Rumble :** <br/>
-   Whether you want your right or left events to be a combination of kicks and rumbles
+   Whether you want your right or left controller events being interpreted as a combination of kicks / rumbles 
    
   - **Shots Delay :** <br/>
    Minimum shooting delay (in milliseconds)
@@ -186,7 +182,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
 
  <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/0b3ffdae-7d16-4052-ab0b-98ba0d391268"/></p>
  
-> Mainly used to simulate different types of weapon your module can imitate
+> Mainly used to simulate different types of weapons your module can imitate
 
 ## Advanced Demonstration
 <br/>
@@ -196,19 +192,19 @@ Clicking on this button will pop a menu where you can manually **assign channels
 <br/>
 
  - **Custom Single Shot :** <br/>
-   Shoots once using specified parameters in below sliders<br/>
+   Shoots once using specified parameters in sliders<br/>
 
  - **Custom Auto Shot :** <br/>
-  Same as Single Shot, but loops based on Frequency slider below<br/>
+  Same as Single Shot, but loops based on Frequency slider <br/>
 
  - **Kick Power :** <br/>
-  Controls the kick power of your device<br/>
+  Controls the kick power <br/>
 
  - **Rumble Power :** <br/>
-  Controls the rumble power of your device<br/>
+  Controls the rumble power <br/>
 
  - **Rumble duration :** <br/>
-  Controls the rumble duration of your device on each shoot.<br/>
+  Controls the rumble duration on each shoot.<br/>
     > max is 500 ms
 
   - **Autoshots Frequency :** <br/>
@@ -224,13 +220,13 @@ Clicking on this button will pop a menu where you can manually **assign channels
  <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
 
  - **Kick Power :** <br/>
-  Controls the kick power of your device<br/>
+  Controls the kick power<br/>
 
  - **Rumble Power :** <br/>
-  Controls the rumble power of your device<br/>
+  Controls the rumble power<br/>
 
  - **Rumble duration :** <br/>
-  Controls the rumble duration of your device on each shoot.<br/>
+  Controls the rumble duration on each shoot.<br/>
     > max is 200 ms
 
 
@@ -240,12 +236,12 @@ Clicking on this button will pop a menu where you can manually **assign channels
 <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
 
  - **Identifier :** <br/>
-   Sends kick command with specified parameters below to the selected channel except 'All' <br/>
+   Sends kick command to the selected channel <br/>
 
 ## Knuckles Fix
 > If you don't own a Valve index, you can skip this section <br/>
 
-**Install the drivers first**
+**Install the driver first**
 
 You can find the driver installer in your program installation folder, inside `Valve-Index-Knuckles-driver`
 
