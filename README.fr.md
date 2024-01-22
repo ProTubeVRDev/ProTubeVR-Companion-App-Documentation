@@ -1,6 +1,6 @@
 # Documentation de l'application compagnon ProTubeVR
 
-🌏 [English](https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/main/README.md) | Français
+🌏 [English](https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/blob/main/README.md) | Français
 
 <link rel="stylesheet" href="index.css" type="text" />
 
