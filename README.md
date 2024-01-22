@@ -10,14 +10,14 @@
 ## Index
 
   - [Native Compatibility games](#native-compatibility-games)
-  - [Manual](#manual)
+  - [Instruction Manual](#instruction-manual)
     - [Top Bar Widgets](#top-bar-widgets)
     - [Side Panel](#side-panel)
    
 ***
 # Native Compatibility Games
 
-These games input can be customized through [Native Customization](#native-customization) <br/>
+These games inputs can be customized through [Native Customization](#native-customization) <br/>
 > If your game does not appear on this list, use [SteamVR Compatibility](#steamvr-compatibility)
 
 - **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
@@ -37,12 +37,20 @@ These games input can be customized through [Native Customization](#native-custo
 - **Gambit !** = `All` ( Pistol only )
 
 Make sure your Haptic modules are set in the right channels when enabling **Native Customization** <br/>
-Refer to [Checking channels](#home-page-companion-pro) <br/>
+Refer to [Checking channels](#advanced-home-page) (advanced home page )<br/>
 > If a game on this list doesn't work, make sure to enable Forcetube in your in-game settings
 
 
-# Manual
+# Instruction Manual
 
+## Definitions :
+- **Module / Device** : Your electronic equipment you're connecting to the app
+- **Channel** : A reserved space where you can connect your modules and isolate specific received signals
+  > There is currently 6 different channels available
+- **ms** : milliseconds
+- **Preset** : a configuration file that contains saved channels and device info
+
+  ***
 
 ## Top Bar Widgets
 
@@ -57,7 +65,7 @@ Refer to [Checking channels](#home-page-companion-pro) <br/>
 ![preset_manager](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/2ac14047-c692-40ca-9bfd-efd6209da796)
 
  - **Delete :** <br/>
-     Delete current selected preset<br/>
+     Delete selected preset<br/>
      
  - **New :** <br/>
     Creates a new preset with the name in the black text box and saves current configs including :
@@ -95,13 +103,13 @@ In the Companion Application, you have a few tabs available by default :
 
 
  **Advanced Features** <br/>
-   		- [Connected Devices](#home-page-companion-pro)
+   		- [Connected Devices](#advanced-home-page)
         <br/>
-   		- [SteamVR](#steamvr-compatibility-companion-pro)
+   		- [SteamVR](#advanced-steamvr-compatibility)
         <br/>
-     	- [Haptic Demo](#demonstration-companion-pro)
+     	- [Haptic Demo](#advanced-demonstration)
         <br/>
-     	- [Native and Mods](#native-customization-companion-pro)
+     	- [Native and Mods](#advanced-native-customization)
       	<br/>
      	- [Valve Index](#knuckles-fix)  
 
@@ -115,7 +123,7 @@ This is the page you land on when you start the app. By default, you will see ea
 
 ![home](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d695324b-e130-49b1-8453-ee16b4a1853f)
 
-## Home Page (Companion Pro)
+## Advanced Home Page
 In advanced mode, you now have a `Channels` button appearing under each device. <br/>
 Clicking on this button will pop a menu where you can manually **assign channels** to your device <br/> 
 <div>
@@ -154,7 +162,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
     
 <br/>
 
-## SteamVR Compatibility (Companion Pro)
+## Advanced SteamVR Compatibility
  <br/>
 
  <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/77aef5a9-6f9a-4fd0-bb3c-0cbfdcf2b8cf"/></p>
@@ -180,7 +188,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
  
 > Mainly used to simulate different types of weapon your module can imitate
 
-## Demonstration (Companion Pro)
+## Advanced Demonstration
 <br/>
  <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/40d08bc6-a9dc-4079-90ab-1f7c67cebed7"/></p>
 <br/>
@@ -226,7 +234,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
     > max is 200 ms
 
 
-## Native Customization (Companion Pro)
+## Advanced Native Customization
 
 <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d3d29e99-17f8-40aa-90eb-775af894412c"/></p>
 <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
