@@ -25,7 +25,7 @@
 ***
 # Jeux compatibles nativement
 
-Les entrées de ces jeux peuvent être personnalisées via [Personnalisation native](#personnalisation-native) <br/>
+Les entrées de ces jeux peuvent être personnalisées via [Personnalisation native](#native-et-mods) <br/>
 > Si votre jeu n'apparaît pas dans cette liste, utilisez [Compatibilité SteamVR](#compatibilité-steamvr)
 
 - **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
@@ -63,10 +63,10 @@ Référez-vous à [Vérification des canaux](#appareils-connectés-avancé) (pag
 ## Gestionnaire de presets
 ![gestionnaire_de_préréglages](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/2ac14047-c692-40ca-9bfd-efd6209da796)
 
- - **Suppr :** <br/>
+ - **Supprimer :** <br/>
      Supprime le préréglage sélectionné<br/>
      
- - **Nouveau :** <br/>
+ - **Enregistrer :** <br/>
     Crée un nouveau préréglage avec le nom dans la zone de texte noire et sauvegarde les configurations actuelles, y compris :
       - Canaux assignés à l'appareil
       - Paramètres VR
@@ -76,7 +76,7 @@ Référez-vous à [Vérification des canaux](#appareils-connectés-avancé) (pag
   - **Import :** <br/>
     Importer un fichier de configuration existant
     
-  - **Exporter :** <br/>
+  - **Export :** <br/>
     Exporter la configuration actuelle en tant que fichier
 
 > En double-cliquant sur un préréglage, la configuration sera chargée
@@ -88,7 +88,7 @@ Dans l'application compagnon, vous avez quelques onglets disponibles par défaut
    ![options_principales](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/e66ea892-74bb-4af9-92bd-cd93ac669add)
 
  **Fonctionnalités de base** <br/>
-	- [Appareils connectés](#page-daccueil)
+	- [Appareils connectés](#appareils-connectés)
   	<br/>
  	- [SteamVR](#compatibilité-steamvr)
     <br/>
@@ -102,7 +102,7 @@ Dans l'application compagnon, vous avez quelques onglets disponibles par défaut
 
 
  **Fonctionnalités avancées** <br/>
-   		- [Appareils connectés](#page-daccueil-avancée)
+   		- [Appareils connectés](#appareils-connectés-avancé)
         <br/>
    		- [SteamVR](#compatibilité-steamvr-avancée)
         <br/>
@@ -123,7 +123,7 @@ C'est la page sur laquelle vous atterrissez lorsque vous démarrez l'application
 ![page_daccueil](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d695324b-e130-49b1-8453-ee16b4a1853f)
 
 ## Appareils connectés avancé
-En mode avancé, un bouton `Canaux` apparaît sous chaque appareil. <br/>
+En mode avancé, un bouton `Channels` apparaît sous chaque appareil. <br/>
 En cliquant sur ce bouton, un menu apparaîtra où vous pourrez **assigner manuellement des canaux** à votre appareil <br/> 
 <div>
   <img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/1f8e81de-8b7a-45e3-80a7-81d03dfeb1f6" width="250"/>
@@ -233,11 +233,9 @@ En cliquant sur ce bouton, un menu apparaîtra où vous pourrez **assigner manue
 ## Native et mods avancée
 
 <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d3d29e99-17f8-40aa-90eb-775af894412c"/></p>
-<p align="center"><img src="https://github.com/ProTubeVRDev/
+<p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
 
-Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
-
- - **Identifiant :** <br/>
+ - **Identifier :** <br/>
    Envoie une commande de kick au canal sélectionné <br/>
 
 ## Valve Index
