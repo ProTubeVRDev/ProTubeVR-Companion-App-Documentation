@@ -171,8 +171,8 @@ Clicking on this button will pop a menu where you can manually **assign channels
    Whether you want your right or left controller events being interpreted as a combination of kicks / rumbles 
    
   - **Shots Delay :** <br/>
-   Minimum shooting delay (in milliseconds)
-    > Useful when you need to setup a minimum delay, i.e. when using SMGs
+   This parameter limits the reaction rate of your devices (in milliseconds)
+    > Useful when you need to setup a minimum delay, i.e. when using faster/slower rate of fire weapons.
   
  - **Minimum Rumble Duration :** <br/>
    Minimum rumble delay (in milliseconds)
