@@ -214,6 +214,7 @@ En cliquant sur ce bouton, un menu apparaîtra où vous pourrez **assigner manue
 
   Permet de personnaliser les entrées de jeu natives <br/>
   Uniquement pour la compatibilité native ou les jeux modifiés <br/>
+  > Connecter **en premier** vos modules à l'app, et ensuite démarrez votre jeu. <br/>
   > Liste non exhaustive des jeux natifs et instructions [ici](#jeux-compatibles-nativement)
   <br/>
 
