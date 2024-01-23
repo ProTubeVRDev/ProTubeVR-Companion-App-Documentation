@@ -214,6 +214,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
 
   Allows you to customize native game input <br/>
   Only for Native Compatibility or modded games <br/>
+  > Make sure to connect your Modules to the app **first**, and then start your game. <br/>
   > Non-exhaustive Native games list & instructions [here](#native-compatibility-games)
   <br/>
 
