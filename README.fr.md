@@ -31,6 +31,7 @@ Les entrées de ces jeux peuvent être personnalisées via [Native et Mods](#nat
 - **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
 - **Cactus cowboy 3 - Fully Loaded** = `RifleButt - RifleBolt`
 - **Contractors** = `All` ( Fusil uniquement )
+- **Hotdogs Horseshoes and Handgrenades** = `RifleButt - RifleBolt`
 - **Dead Second** = `Pistol1`
 - **Ghosts of Tabor** = `RifleButt - RifleBolt`
 - **Gun club VR** = `RifleButt - RifleBolt`
