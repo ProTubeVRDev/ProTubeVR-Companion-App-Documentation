@@ -8,8 +8,8 @@
 ![general_preview](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/ff16a059-7bb7-4a04-9e45-868ffd1f1df3)
 
 ## Definitions :
-- **Module / Device** : Your electronic equipment you're connecting to the app
-- **Channel** : A reserved space where you can connect your modules and isolate specific received signals
+- **Device** : Your electronic equipment you're connecting to the app
+- **Channel** : A reserved space where you can connect your devices and isolate specific received signals
 - **ms** : milliseconds
 - **Preset** : a configuration file that contains saved channels and device info
 
@@ -25,8 +25,8 @@
 ***
 # Native Compatibility Games
 
-These games inputs can be customized through [Native Customization](#native-customization) <br/>
-> If your game does not appear on this list, use [SteamVR Compatibility](#steamvr-compatibility)
+These games inputs can be customized through [Native and Mods](#native-and-mods) <br/>
+> If your game does not appear on this list, use [SteamVR](#steamvr-compatibility)
 
 - **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
 - **Cactus cowboy 3 - Fully Loaded** = `RifleButt - RifleBolt`
@@ -45,9 +45,9 @@ These games inputs can be customized through [Native Customization](#native-cust
 - **Vertigo 2** = `RifleButt - RifleBolt`
 - **Gambit !** = `All` ( Pistol only )
 
-Make sure your Haptic modules are set in the right channels when enabling **Native Customization** <br/>
-Refer to [Checking channels](#advanced-home-page) (advanced home page )<br/>
-> If a game on this list doesn't work, make sure to enable Forcetube in your in-game settings
+Make sure your Haptic devices are set in the right channels when enabling **Native Customization** <br/>
+Refer to [Advanced Homepage](#advanced-connected-devices)<br/>
+> If a game on this list doesn't work, make sure to search and enable Forcetube settings in your game menus
 
 
 # Instruction Manual
@@ -59,7 +59,7 @@ Refer to [Checking channels](#advanced-home-page) (advanced home page )<br/>
 
 ## Auto research
   Whether or not you want to add paired devices
-> Can be useful if you are using multiple modules
+> Useful when you are using multiple devices and/or multiple companion-apps in your gaming space
 
 ## Preset Manager
 ![preset_manager](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/2ac14047-c692-40ca-9bfd-efd6209da796)
@@ -89,13 +89,13 @@ In the Companion Application, you have a few tabs available by default :
    ![main_options](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/e66ea892-74bb-4af9-92bd-cd93ac669add)
 
  **Basic Features** <br/>
-	- [Connected Devices](#home-page)
+	- [Connected Devices](#connected-devices)
   	<br/>
  	- [SteamVR](#steamvr-compatibility)
     <br/>
- 	- [Haptic Demo](#demonstration)
+ 	- [Haptic Demo](#haptic-demo)
     <br/>
- 	- [Native and Mods](#native-customization)
+ 	- [Native and Mods](#native-and-mods)
        
    ***
        
@@ -103,27 +103,27 @@ In the Companion Application, you have a few tabs available by default :
 
 
  **Advanced Features** <br/>
-   		- [Connected Devices](#advanced-home-page)
+   		- [Connected Devices](#advanced-connected-devices)
         <br/>
    		- [SteamVR](#advanced-steamvr-compatibility)
         <br/>
-     	- [Haptic Demo](#advanced-demonstration)
+     	- [Haptic Demo](#advanced-haptic-demo)
         <br/>
-     	- [Native and Mods](#advanced-native-customization)
+     	- [Native and Mods](#advanced-native-and-mods)
       	<br/>
-     	- [Valve Index](#knuckles-fix)  
+     	- [Valve Index](#valve-index)  
 
 ***
 
 ## Advanced Mode
   Basically, switching between modes allows the user to **enable/disable advanced features**.
   
-## Home Page
+## Connected devices
 This is the page you land on when you start the app. By default, you will see each connected device here.
 
 ![home](https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d695324b-e130-49b1-8453-ee16b4a1853f)
 
-## Advanced Home Page
+## Advanced Connected Devices
 In advanced mode, you now have a `Channels` button appearing under each device. <br/>
 Clicking on this button will pop a menu where you can manually **assign channels** to your device <br/> 
 <div>
@@ -135,7 +135,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
 **Important Notes :** <br/>
  - Without assigning any channels, connecting a new device will assign one automatically in this particular order : <br/>
  `RifleButt - RifleBolt - Pistol1 - Pistol2 - Other - Vest` <br/>
- - If you connect more devices, auto-assign will loop back to RifleButt and so on
+ - If you connect more devices than the total channel number available, auto-assign will loop back to RifleButt and so on
 
 <br/>
 
@@ -148,13 +148,14 @@ Clicking on this button will pop a menu where you can manually **assign channels
   <br/>
   
   - **Listen Events :** <br/>
-    Whether you want your channel to react when your left/right hand does an action in-game <br/>
+    Whether you want your channel to react when your left/right hand triggers an haptic event <br/>
     
   - **Kick Power :** <br/>
     Controls the kick power of your devices<br/>
     
   - **Kick Threshold :** <br/>
-    Adjust this variable to control how many events are being reacted to, depending of the events power steamvr emits <br/>
+    Adjust this variable to control required power for SteamVR events to trigger you device Kick response<br/>
+    > Each game has different values defined by the developers, you will have to do some testing to get a good result
     
   - **Rumble Threshold :** <br/>
     Same as Kick Threshold, but for the Rumble feature.
@@ -169,27 +170,27 @@ Clicking on this button will pop a menu where you can manually **assign channels
  <br/>
 
  - **Interpret as kick / Interpret as Rumble :** <br/>
-   Whether you want your right or left controller events being interpreted as a combination of kicks / rumbles 
+   If you want your right or left controller events being interpreted as kicks, rumbles or both 
    
   - **Shots Delay :** <br/>
    This parameter limits the reaction rate of your devices (in milliseconds)
-    > Useful when you need to setup a minimum delay, i.e. when using faster/slower rate of fire weapons.
+    > Avoids triggering event bursts on each interaction, like picking up an object
   
  - **Minimum Rumble Duration :** <br/>
-   Minimum rumble delay (in milliseconds)
+   Controls the duration between each vibration (in milliseconds)
 
-## Demonstration 
+## Haptic Demo 
 <br/>
 
- <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/0b3ffdae-7d16-4052-ab0b-98ba0d391268"/></p>
+<p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/ad600b67-8a7a-46c4-ae73-0bfff3693195"/></p>
  
-> Mainly used to simulate different types of weapons your module can imitate
+> Mainly used to simulate different types of weapons your device can imitate
 
-## Advanced Demonstration
+## Advanced Haptic Demo
 <br/>
- <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/40d08bc6-a9dc-4079-90ab-1f7c67cebed7"/></p>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/fe9cb891-ffb5-4b0b-84a5-29fa96c09a05"/></p>
 <br/>
- <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/6b459cdf-264f-42cd-a3ef-58cc64b3577b"/></p>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/e7f32273-09c7-4cfd-81a6-90e79a38c9dc"/></p>
 <br/>
 
  - **Custom Single Shot :** <br/>
@@ -211,11 +212,11 @@ Clicking on this button will pop a menu where you can manually **assign channels
   - **Autoshots Frequency :** <br/>
   How many times per second you want to shoot with Custom Auto Shot<br/>
 
-## Native Customization 
+## Native and Mods
 
   Allows you to customize native game input <br/>
   Only for Native Compatibility or modded games <br/>
-  > Make sure to connect your Modules to the app **first**, and then start your game. <br/>
+  > Make sure to connect your devices to the app **first**, and then start your game. <br/>
   > Non-exhaustive Native games list & instructions [here](#native-compatibility-games)
   <br/>
 
@@ -232,15 +233,15 @@ Clicking on this button will pop a menu where you can manually **assign channels
     > max is 200 ms
 
 
-## Advanced Native Customization
-
-<p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/d3d29e99-17f8-40aa-90eb-775af894412c"/></p>
+## Advanced Native and Mods
+ 
+ <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/fe9cb891-ffb5-4b0b-84a5-29fa96c09a05"/></p>
 <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
 
  - **Identifier :** <br/>
    Sends kick command to the selected channel <br/>
 
-## Knuckles Fix
+## Valve Index
 > If you don't own a Valve index, you can skip this section <br/>
 
 **Install the driver first**
@@ -252,7 +253,7 @@ This section prevents your in-game hands to fly away when you shoot in long burs
 
 <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/4cf4dd10-6200-4f86-aa4b-6efb2198b181"/></p>
 
- - **Accelero :** <br/>
+ - **Accelero Max:** <br/>
   Limits max acceleration of your in-game hand<br/>
 
  - **Freeze Duration :** <br/>
