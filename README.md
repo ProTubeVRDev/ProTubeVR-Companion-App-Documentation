@@ -144,7 +144,8 @@ Clicking on this button will pop a menu where you can manually **assign channels
   > Allows you to customize SteamVR inputs
 
   <br/>
-    <img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/969afda0-9e62-4a32-9a49-c321b15ad63e" width="800"/>
+     <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/95ca526a-f4fa-4994-81dd-e79f1e4cf0e1" width="800"/></p>
+
   <br/>
   
   - **Listen Events :** <br/>
@@ -166,8 +167,8 @@ Clicking on this button will pop a menu where you can manually **assign channels
 ## Advanced SteamVR Compatibility
  <br/>
 
- <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/77aef5a9-6f9a-4fd0-bb3c-0cbfdcf2b8cf"/></p>
- <br/>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/03f2be23-9950-4295-bc43-0ab7c6a5f59b"/></p>
+<br/>
 
  - **Interpret as kick / Interpret as Rumble :** <br/>
    If you want your right or left controller events being interpreted as kicks, rumbles or both 
@@ -182,15 +183,15 @@ Clicking on this button will pop a menu where you can manually **assign channels
 ## Haptic Demo 
 <br/>
 
-<p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/ad600b67-8a7a-46c4-ae73-0bfff3693195"/></p>
- 
+<p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/29142b91-4a56-4dc7-a720-b590cc05c570"/></p>
+
 > Mainly used to simulate different types of weapons your device can imitate
 
 ## Advanced Haptic Demo
 <br/>
  <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/fe9cb891-ffb5-4b0b-84a5-29fa96c09a05"/></p>
 <br/>
- <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/e7f32273-09c7-4cfd-81a6-90e79a38c9dc"/></p>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/8a8c4501-41e9-412c-a692-f34dd4a94cbe"/></p>
 <br/>
 
  - **Custom Single Shot :** <br/>
@@ -220,7 +221,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
   > Non-exhaustive Native games list & instructions [here](#native-compatibility-games)
   <br/>
 
- <p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/7363b551-67ae-44e5-a044-1909bc7ae503"/></p>
 
  - **Kick Power :** <br/>
   Controls the kick power<br/>
@@ -236,7 +237,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
 ## Advanced Native and Mods
  
  <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/fe9cb891-ffb5-4b0b-84a5-29fa96c09a05"/></p>
-<p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/c7a06ff4-e977-446d-8620-47ef52d67d8f"/></p>
+  <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/7363b551-67ae-44e5-a044-1909bc7ae503"/></p>
 
  - **Identifier :** <br/>
    Sends kick command to the selected channel <br/>
@@ -251,7 +252,8 @@ You can find the driver installer in your program installation folder, inside `V
 This section prevents your in-game hands to fly away when you shoot in long bursts
 <br/><br/>
 
-<p align="center"><img src="https://github.com/ProTubeVRDev/Client-Doc/assets/62568994/4cf4dd10-6200-4f86-aa4b-6efb2198b181"/></p>
+<p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/c81e032d-1c1c-49a8-aa32-2774102dbaff"/></p>
+
 
  - **Accelero Max:** <br/>
   Limits max acceleration of your in-game hand<br/>
