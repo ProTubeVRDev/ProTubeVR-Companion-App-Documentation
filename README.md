@@ -183,7 +183,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
 ## Haptic Demo 
 <br/>
 
-<p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/29142b91-4a56-4dc7-a720-b590cc05c570"/></p>
+<p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/f7c11c33-cc58-451f-b077-72a166f37f34"/></p>
 
 > Mainly used to simulate different types of weapons your device can imitate
 
@@ -191,7 +191,7 @@ Clicking on this button will pop a menu where you can manually **assign channels
 <br/>
  <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/fe9cb891-ffb5-4b0b-84a5-29fa96c09a05"/></p>
 <br/>
- <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/8a8c4501-41e9-412c-a692-f34dd4a94cbe"/></p>
+ <p align="center"><img src="https://github.com/ProTubeVRDev/ProTubeVR-Companion-App-Documentation/assets/62568994/71a4ac54-d3c2-469e-ac2c-73de225be55a"/></p>
 <br/>
 
  - **Custom Single Shot :** <br/>
