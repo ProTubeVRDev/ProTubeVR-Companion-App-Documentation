@@ -30,7 +30,7 @@ These games inputs can be customized through [Native and Mods](#native-and-mods)
 
 - **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
 - **Cactus cowboy 3 - Fully Loaded** = `RifleButt - RifleBolt`
-- **Contractors** = = `All` ( Rifle only )
+- **Contractors** = `All` ( Rifle only )
 - **Hotdogs Horseshoes and Handgrenades** = `RifleButt - RifleBolt`
 - **Dead Second** = `Pistol1`
 - **Ghosts of Tabor** = `RifleButt - RifleBolt`
