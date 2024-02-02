@@ -28,22 +28,21 @@
 These games inputs can be customized through [Native and Mods](#native-and-mods) <br/>
 > If your game does not appear on this list, use [SteamVR](#steamvr-compatibility)
 
-- **Cactus cowboy - Plants at War** = `RifleButt - RifleBolt`
-- **Cactus cowboy 3 - Fully Loaded** = `RifleButt - RifleBolt`
-- **Contractors** = `All` ( Rifle only )
-- **Hotdogs Horseshoes and Handgrenades** = `RifleButt - RifleBolt`
-- **Dead Second** = `Pistol1`
-- **Ghosts of Tabor** = `RifleButt - RifleBolt`
-- **Gun club VR** = `RifleButt - RifleBolt`
-- **Honor and Duty: D-Day** = `RifleButt - RifleBolt`
-- **Larcenauts** = `RifleButt - RifleBolt`
-- **Onward** = No custom., `All` ( Rifle only )
-- **Resist** = `Pistol1 - Pistol2`
-- **Surv1v3** : `Pistol1` (in-game only)
--  **Tales of Glory 2 : Retaliation** = `RifleButt - RifleBolt` Full haptic support
-- **Warchasm** = Akimbo out of the box. No custom.
-- **Vertigo 2** = `RifleButt - RifleBolt`
-- **Gambit !** = `All` ( Pistol only )
+- **Dead Second** = 				`Pistol1`
+- **Surv1v3** : 				`Pistol1`
+- **Cactus cowboy - Plants at War** = 		`RifleButt - RifleBolt`
+- **Cactus cowboy 3 - Fully Loaded** = 		`RifleButt - RifleBolt`
+- **Hotdogs Horseshoes and Handgrenades** = 	`RifleButt - RifleBolt`
+- **Ghosts of Tabor** = 			`RifleButt - RifleBolt`
+- **Larcenauts** = 				`Pistol1 - Pistol2`
+- **Resist** = 					`Pistol1 - Pistol2` Enable parameter in game settings
+- **Onward** = 					`RifleButt - RifleBolt`, Tuning on Channel `All` ( Rifle only )
+- **Contractors** = 				`RifleButt - RifleBolt`, Tuning on Channel `All` 
+- **Tales of Glory 2 : Retaliation** = 		`RifleButt - RifleBolt`, Tuning on Channel `All`
+- **Vertigo 2** = 				`RifleButt - RifleBolt`, Tuning on Channel `All`
+- **Gun club VR** = 				`RifleButt - RifleBolt`, Tuning on Channel `All`
+- **Warchasm** = 				Akimbo out of the box. No companion-app customization available
+- **Gambit !** = 				`Pistol2` ( Pistol only ), Right hand only. Start the Companion app after the game connects to the devices
 
 Make sure your Haptic devices are set in the right channels when enabling **Native Customization** <br/>
 Refer to [Advanced Homepage](#advanced-connected-devices)<br/>
