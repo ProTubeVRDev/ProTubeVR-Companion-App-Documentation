@@ -33,7 +33,6 @@ These games inputs can be customized through [Native and Mods](#native-and-mods)
 - **Cactus cowboy - Plants at War** = 		`RifleButt - RifleBolt`
 - **Cactus cowboy 3 - Fully Loaded** = 		`RifleButt - RifleBolt`
 - **Hotdogs Horseshoes and Handgrenades** = 	`RifleButt - RifleBolt`
-- **Ghosts of Tabor** = 			`RifleButt - RifleBolt`
 - **Larcenauts** = 				`Pistol1 - Pistol2`
 - **Resist** = 					`Pistol1 - Pistol2` Enable parameter in game settings
 - **Onward** = 					`RifleButt - RifleBolt`, Tuning on Channel `All` ( Rifle only )
